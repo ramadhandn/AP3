@@ -1,6 +1,7 @@
 /* 
 Deskripsi Soal: 
-Buatlah program input penjumlahan 2 buah angka, lalu menampilkan hasil penjumlahannya, menggunakan bahasa C.
+Sebuah perusahaan membuka lowongan pekerjaan dengan syarat calon karyawan tersebut diatas 20 tahun maksimal 40 tahun, 
+apabila calon karyawan memenuhi kriteria tersebut maka akan lulus pada tahap pertama, jika tidak maka gagal.
 */
   
 #include <stdio.h>
